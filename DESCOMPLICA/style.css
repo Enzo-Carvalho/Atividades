@@ -1,0 +1,15 @@
+/* Adiciona um pouco de padding ao corpo */
+body {
+    padding-top: 20px;
+}
+
+/* Estiliza o cabeçalho */
+header {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Estiliza o rodapé */
+footer {
+    background-color: #343a40;
+}
